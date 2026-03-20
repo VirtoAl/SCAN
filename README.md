@@ -1,10 +1,16 @@
+# Minha participação
+
+Projeto desenvolvido em equipe como Trabalho de Conclusão de Curso.
+
+Principais contribuições:
+- fluxograma analítica do escopo
+- diagrama de processo do treinamento do modelo e interpolação
+- testes e validação do modelo
+
 # SCAN
 Spatial Channel Attention Network 
 
 SCAN é um modelo de interpolação de frames que utiliza canais de atenção em conjunto com atenção espacial para interpolar frames.
-
-
-Modelo com melhores pesos pode ser baixado de: [Google Drive](https://drive.google.com/file/d/1LymsoEl4TCanVm3ke_Wvo1ZWM7RkF_NX/view?usp=drive_link) (validation loss 0.1116)
 
 Modelo PARA A BRANCH DEV (onde voce está) com melhores pesos pode ser baixado de: [Google Drive](https://drive.google.com/file/d/172T2bWhCSaQkn2BsEYUF7GPtOOn1MYNb/view?usp=sharing)
 
